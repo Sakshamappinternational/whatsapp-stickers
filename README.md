@@ -1,4 +1,4 @@
-# whatsapp-stickers
+# Whatsapp stickers
 Stickers for WhatsApp<p>
 <p>
 <b>How to install these WhatsApp stickers?</b><p> 
